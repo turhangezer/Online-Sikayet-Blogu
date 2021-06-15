@@ -16,13 +16,13 @@ SikayetimVar is a blog that you can write your opinions or complaints about a co
 # Images from website
 
 Login page:<br>
-<img src="images/login.PNG" width="1024" height="576"><br>
+<img src="images/login.PNG" ><br>
 Register page:<br>
-<img src="images/register.PNG" width="1024" height="576"><br>
+<img src="images/register.PNG" ><br>
 Home page:<br>
-<img src="images/homepage.PNG" width="1024" height="576"><br>
+<img src="images/homepage.PNG" ><br>
 Erofile page:<br>
-<img src="images/profile.PNG" width="1024" height="576"><br>
+<img src="images/profile.PNG" ><br>
 Edit page:<br>
-<img src="images/edit.PNG" width="1024" height="576"><br>
+<img src="images/edit.PNG" ><br>
 
