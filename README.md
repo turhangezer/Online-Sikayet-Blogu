@@ -14,14 +14,14 @@ SikayetimVar is a blog that you can write your opinions or complaints about a co
 
 # Images from website
 
-Start Screen:<br>
-<img src="images/Ekran Alıntısı.PNG" width="400" height="250"><br>
-A tackling opponent:<br>
-<img src="images/Ekran Alıntısı1.PNG" width="400" height="250"><br>
-A running opponent:<br>
-<img src="images/Ekran Alıntısı4.PNG" width="400" height="250"><br>
-Game over screen:<br>
-<img src="images/Ekran Alıntısı2.PNG" width="400" height="250"><br>
-Game won screen:<br>
-<img src="images/Ekran Alıntısı3.PNG" width="400" height="250"><br>
+Login page:<br>
+<img src="images/login.PNG" width="1024" height="576"><br>
+Register page:<br>
+<img src="images/register.PNG" width="1024" height="576"><br>
+Home page:<br>
+<img src="images/homepage.PNG" width="1024" height="576"><br>
+Erofile page:<br>
+<img src="images/profile.PNG" width="1024" height="576"><br>
+Edit page:<br>
+<img src="images/edit.PNG" width="1024" height="576"><br>
 
