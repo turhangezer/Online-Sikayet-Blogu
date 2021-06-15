@@ -10,6 +10,7 @@ SikayetimVar is a blog that you can write your opinions or complaints about a co
 * [CSS3](https://www.google.com/search?client=opera-gx&q=css&sourceid=opera&ie=UTF-8&oe=UTF-8)
 * [BOOTSTRAP v5.0](https://getbootstrap.com)
 * [Javascript](https://www.google.com/search?client=opera-gx&q=javascript&sourceid=opera&ie=UTF-8&oe=UTF-8)
+* [PHP](https://www.php.net)
 
 # Images from website
 
