@@ -21,7 +21,7 @@ Register page:<br>
 <img src="images/register.PNG" ><br>
 Home page:<br>
 <img src="images/homepage.PNG" ><br>
-Erofile page:<br>
+Profile page:<br>
 <img src="images/profile.PNG" ><br>
 Edit page:<br>
 <img src="images/edit.PNG" ><br>
